@@ -28,7 +28,7 @@ termux-setup-storage
 
 # Build the APK
 bash build.sh
-
-# Install on device
-# Your APK file (app.apk) will be in your phone storage after a successful build.
 ```
+
+## Install on device
+- Your APK file (app.apk) will be in your phone storage after a successful build.
