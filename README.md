@@ -1,4 +1,3 @@
-```markdown
 # 📱 Termux Android App Builder
 
 Build and install Android APKs entirely from **Termux** — no Android Studio, no computer, no Gradle, just your phone and the command line.
@@ -358,4 +357,3 @@ Uninstall the existing app first, or increment `versionCode` in `AndroidManifest
 - [Termux Wiki](https://wiki.termux.com/)
 - [AAPT2 Documentation](https://developer.android.com/studio/command-line/aapt2)
 - [D8/DX Documentation](https://developer.android.com/studio/command-line/d8)
-```
